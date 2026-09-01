@@ -14,7 +14,7 @@
 
 ### Exercício 1 - Agenda em Dicionário
 A implementação em Python cria um dicionário para gerenciar os contatos. O código lê os dados de forma contínua até que o usuário pressione ENTER deixando a chave em branco. 
-*👉 Veja o script completo em [`exercicio1.py`](./exercicio1.py).*
+*[`exercicio1.py`](./exercicio1.py) *
 
 ### Exercício 2 - Grafo dos Cavalos (Figura 1)
 *Representação Teórica:* As posições atuais dos cavalos representam os vértices iniciais de um grafo. As posições válidas de destino (simulando o movimento em "L") seriam as arestas conectando este ponto de origem aos seus respectivos vértices adjacentes no tabuleiro.
@@ -24,7 +24,7 @@ A matriz de adjacência (de dimensões 64x64) conteria o valor `1` nas interseç
 
 ### Exercício 4 - Validador de Movimentos (Grafo de Xadrez)
 Criamos uma função que verifica se a movimentação informada forma um arco válido no grafo do tabuleiro, respeitando os limites da matriz (8x8) e o delta dos eixos x e y para garantir o salto em "L".
-*👉 Veja a implementação e os testes rodando em [`exercicio4.py`](./exercicio4.py).*
+*[`exercicio4.py`](./exercicio4.py).*
 
 ### Exercício 5 - Lista de Adjacência e Consumo de Memória
 **Lista de Adjacência gerada a partir da casa f3:**
